@@ -29,7 +29,7 @@ located_in: "Bhopal, India"
 current_job: "Computer Science Student"
 education: 
   - "VIT Bhopal University"
-  - "CGPA: 8.44/10"
+ 
   
 fields_of_interests:
   - "Machine Learning & AI"
@@ -200,7 +200,7 @@ timeline
     section Education
         2022-2026  : B.Tech CSE
                    : VIT Bhopal University
-                   : CGPA: 8.44/10
+                   
 ```
 
 </div>
