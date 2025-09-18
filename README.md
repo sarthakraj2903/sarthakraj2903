@@ -26,9 +26,9 @@
 ```yaml
 name: "Sarthak Raj"
 located_in: "Bhopal, India"
-current_job: "Computer Science Student"
-education: 
-  - "VIT Bhopal University"
+current_field: "Computer Science Student"
+education: "VIT Bhopal University"
+  
  
   
 fields_of_interests:
