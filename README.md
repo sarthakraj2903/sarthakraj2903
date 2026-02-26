@@ -1,99 +1,129 @@
-<!-- ===================== FINAL BOSS JUNGLE MODE ===================== -->
+<!-- ===================== ABSOLUTE INSANITY MODE ===================== -->
 
-<!-- Animated 3D Jungle Header -->
+<!-- CYBERPUNK JUNGLE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f1f,25:022c22,50:064e3b,75:065f46,100:14532d&height=260&section=header&text=SARTHAK%20RAJ&fontSize=60&fontColor=22c55e&animation=fadeIn&fontAlignY=38&desc=FINAL%20BOSS%20DEVELOPER%20%7C%20FULLSTACK%20%7C%20ML%20%7C%20SYSTEMS&descAlignY=60&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001a1a,50:003333,75:00ff99,100:00ffcc&height=280&section=header&text=S%20A%20R%20T%20H%20A%20K%20%20R%20A%20J&fontSize=55&fontColor=00ff99&animation=fadeIn&fontAlignY=35&desc=CYBERPUNK%20JUNGLE%20ARCHITECT&descAlignY=60&descSize=20"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- CUSTOM ANIMATED LOGO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=950&lines=🌴+Welcome+to+the+Digital+Jungle;🐍+Elite+Full+Stack+Engineer;⚡+High+Performance+System+Builder;🧠+ML+Architect;🚀+I+Build.+I+Scale.+I+Dominate."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=800&color=00FF99&center=true&vCenter=true&width=900&lines=🐍+SR+%7C+Full+Stack+Overlord;⚡+ML+System+Architect;🌌+Digital+Jungle+Dominance;🔥+Build.+Scale.+Conquer."/>
 </p>
 
 ---
 
-# 👑 THE DEVELOPER THRONE
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarthakraj2903&label=Jungle+Visitors&color=00ff99&style=for-the-badge"/>
+</p>
+
+---
+
+# 🧊 GLASS CORE PROFILE
+
+<details open>
+<summary>👑 Developer Throne</summary>
 
 ```diff
-+ 🌴 Web Developer @ TOIL LABS (Feb 2026 – Present)
++ 🌴 Web Developer @ TOIL LABS
 + 🌎 Ex-SDE Intern @ CAPRAE CAPITAL (California)
-+ 🧠 ML & Web Intern @ IIT ISM Dhanbad
++ 🧠 ML Engineer @ IIT ISM Dhanbad
 + 🎓 B.Tech CSE @ VIT Bhopal | CGPA: 8.44
-+ 🐅 Builder of Scalable Architectures
-+ ⚔️ Performance Driven Engineer
++ ⚔️ High Performance System Builder
++ 🐍 Architect of Scalable Infrastructure
 ```
+
+</details>
 
 ---
 
 # 🐍 CONTRIBUTION SERPENT
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarthakraj2903/sarthakraj2903/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sarthakraj2903/sarthakraj2903/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 🌴 EXPERIENCE – BATTLE TESTED
+# 🎮 INTERACTIVE BOSS SECTIONS
 
-## 🌿 TOIL LABS — Web Developer
+<details>
+<summary>🌴 TOIL LABS – Web Developer</summary>
 
-⚡ Architecting scalable UI systems  
-🚀 REST API integrations  
-🌍 Deployment + CI/CD  
-🔥 Performance optimization  
-🏗 Production-ready features  
+- ⚡ Scalable UI Architecture  
+- 🚀 REST API Integration  
+- 🔥 Performance Optimization  
+- 🌍 Deployment + CI/CD  
+- 🏗 Production Engineering  
 
----
-
-## 🌎 CAPRAE CAPITAL — Fullstack SDE Intern
-
-🛒 Built B2B Marketplace  
-⚙ Stack: Next.js • NestJS • PostgreSQL • Redis • Elasticsearch • AWS S3  
-💬 Real-time chat  
-💳 Stripe payments  
-🛡 Fraud detection layer  
-📈 SEO optimized SSR  
+</details>
 
 ---
 
-## 🌾 IIT ISM DHANBAD — ML & Web Intern
+<details>
+<summary>🌎 CAPRAE CAPITAL – Fullstack Engineer</summary>
 
-🚗 Automatic Number Plate Recognition  
-🌱 Kisan Saathi ML Crop Recommendation  
-🧠 Deep Learning + Computer Vision  
+- 🛒 B2B Marketplace  
+- ⚙ Next.js • NestJS • PostgreSQL • Redis • Elasticsearch • AWS S3  
+- 💳 Stripe Integration  
+- 💬 Real-time Chat  
+- 🛡 Fraud Detection  
+- 📈 SEO Optimized SSR  
+
+</details>
 
 ---
 
-# 🐅 PROJECT WAR ZONE
+<details>
+<summary>🌾 IIT ISM – ML Architect</summary>
 
-## 🔥 Deep Packet Inspection Engine
-C++17 • Multi-threaded • Real-time DPI  
-- Identifies 15+ Applications  
+- 🚗 Automatic Number Plate Recognition  
+- 🌱 Kisan Saathi – Crop Recommendation  
+- 🧠 Deep Learning + Computer Vision  
+
+</details>
+
+---
+
+# ⚔️ PROJECT WAR ZONE
+
+<details>
+<summary>🔥 Deep Packet Inspection Engine</summary>
+
+- C++17 Multi-threaded DPI  
 - TLS SNI Extraction  
-- Five-tuple hashing  
-- Parallel load-balanced architecture  
+- Five-Tuple Hashing  
+- 15+ Application Detection  
+- Parallel Load Balanced Architecture  
+
+</details>
 
 ---
 
-## 🌴 SkillBridge
-AI Skill Gap Analyzer  
-- Gemini API  
-- Node.js + TypeScript  
-- Learning Roadmap Intelligence  
+<details>
+<summary>🌴 SkillBridge</summary>
+
+- AI Skill Gap Analyzer  
+- Gemini API Integration  
+- Node.js + TypeScript Backend  
+
+</details>
 
 ---
 
-## 🌾 KisanSaathi
-ML Agriculture System  
-- Crop Recommendation  
+<details>
+<summary>🌾 KisanSaathi</summary>
+
+- ML Crop Recommendation  
 - Disease Detection  
 - Streamlit Deployment  
 
+</details>
+
 ---
 
-# ⚔️ TECH ARSENAL
+# 🐅 CYBER TECH ARSENAL
 
-## 🐍 Languages
+## 🧠 Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css,react,nodejs&theme=dark"/>
@@ -101,7 +131,7 @@ ML Agriculture System
 
 ---
 
-## ☁️ Cloud • DevOps • Backend
+## ☁️ Cloud & DevOps
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,spring,redis,mongodb,firebase&theme=dark"/>
@@ -109,22 +139,14 @@ ML Agriculture System
 
 ---
 
-## 🧠 AI • Intelligence
+## 🧠 AI INTELLIGENCE
 
 LLM • RAG • LangChain • Ollama • N8N  
 Apache Spark • Tableau • Power BI  
 
 ---
 
-# 🏆 CERTIFICATIONS
-
-🏅 Oracle Cloud Foundation Associate  
-🏅 Docker Foundational  
-🏅 Microsoft Azure AI Essentials  
-
----
-
-# 📊 JUNGLE DOMINATION METRICS
+# 📊 CYBER DOMINATION STATS
 
 <p align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=sarthakraj2903&show_icons=true&theme=merko&hide_border=true&bg_color=00000000"/>
@@ -137,15 +159,15 @@ Apache Spark • Tableau • Power BI
 
 ---
 
-# 🏆 TROPHIES
+# 🏆 TROPHY CHAMBER
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sarthakraj2903&theme=matrix&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sarthakraj2903&theme=matrix&no-frame=true&margin-w=8"/>
 </p>
 
 ---
 
-# 🌐 ENTER THE JUNGLE
+# 🌌 ENTER THE DIGITAL JUNGLE
 
 <p align="center">
 <a href="https://linkedin.com/in/sarthak7070">
@@ -155,14 +177,14 @@ Apache Spark • Tableau • Power BI
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 <a href="https://sarthakrajportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/ENTER-PORTFOLIO-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ENTER-PORTFOLIO-00ff99?style=for-the-badge"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,50:064e3b,100:001f1f&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:003333,100:000000&height=150&section=footer"/>
 </p>
 
-<!-- ===================== FINAL BOSS COMPLETE ===================== -->
+<!-- ===================== ABSOLUTE INSANITY COMPLETE ===================== -->
